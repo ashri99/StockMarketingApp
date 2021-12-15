@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdminServer/AdminServer.iml" filepath="$PROJECT_DIR$/AdminServer/AdminServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApiGatewayService/ApiGatewayService.iml" filepath="$PROJECT_DIR$/ApiGatewayService/ApiGatewayService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompanyServiceApplication/CompanyServiceApplication.iml" filepath="$PROJECT_DIR$/CompanyServiceApplication/CompanyServiceApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/ConfigServer/ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SectorServiceApplication/SectorServiceApplication.iml" filepath="$PROJECT_DIR$/SectorServiceApplication/SectorServiceApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StockExchangeApplication/StockExchangeApplication.iml" filepath="$PROJECT_DIR$/StockExchangeApplication/StockExchangeApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/StockMarketingApp.iml" filepath="$PROJECT_DIR$/.idea/StockMarketingApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StockPriceApplication/StockPriceApplication.iml" filepath="$PROJECT_DIR$/StockPriceApplication/StockPriceApplication.iml" />
+    </modules>
+  </component>
+</project>
