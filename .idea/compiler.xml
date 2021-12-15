@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -17,14 +18,14 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="AdminServer" target="11" />
-      <module name="ApiGatewayService" target="11" />
-      <module name="CompanyServiceApplication" target="11" />
-      <module name="ConfigServer" target="11" />
-      <module name="EurekaServer" target="11" />
-      <module name="SectorServiceApplication" target="11" />
-      <module name="StockExchangeApplication" target="11" />
-      <module name="StockPriceApplication" target="11" />
+      <module name="AdminServer" target="8" />
+      <module name="ApiGatewayService" target="8" />
+      <module name="CompanyServiceApplication" target="8" />
+      <module name="ConfigServer" target="8" />
+      <module name="EurekaServer" target="8" />
+      <module name="SectorServiceApplication" target="8" />
+      <module name="StockExchangeApplication" target="8" />
+      <module name="StockPriceApplication" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
